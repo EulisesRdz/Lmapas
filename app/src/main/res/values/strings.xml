@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ER - Mapas</string>
+
+    <string name="ter1">Normal</string>
+    <string name="ter2">Hibrido</string>
+    <string name="ter3">Satelite</string>
+    <string name="ter4">Terreno</string>
+    <string name="ter5">None</string>
+</resources>
